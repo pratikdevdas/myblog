@@ -1,6 +1,6 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
+  "title": "Blog by Pratik Dev Das",
+  "url": "https://blog.pratikdevdas.com",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
@@ -22,13 +22,13 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Pratik Dev Das",
     "photo": "/photo.jpg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "The guy at Halo says .",
     "contacts": {
       "rss": "",
       "email": "",
-      "github": "#",
+      "github": "pratikdevdas",
       "facebook": "#",
       "telegram": "#",
       "twitter": "#",
